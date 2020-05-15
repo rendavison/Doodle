@@ -1,0 +1,1 @@
+“Doodle” is a basic drawing program with additional modes and features to facilitate an easy pattern-making or drawing experience. It can connect to a drawing tablet, or the user can simply draw with their mouse. It is written in Python 3 and the only external module it utilizes is Tkinter for graphics.
